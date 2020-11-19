@@ -28,4 +28,4 @@ Se debo poder instalar de forma muy sencilla sin generar errores a través de un
 ###Tiempo de ejecución 48h 
 
 
-### [Puedes ver el diseño aqui (https://xd.adobe.com/view/2a0e74e3-476c-4ecf-ad8c-d16f8b16d8f1-7f5d/screen/1e883b1f-b0bb-44c9-807a-86a7b4486140/).
+### [Puedes ver el diseño aqui (https://xd.adobe.com/view/2a0e74e3-476c-4ecf-ad8c-d16f8b16d8f1-7f5d/grid).
