@@ -2,7 +2,8 @@
 
 ## Introducción
 La siguiente prueba busca evaluar los conocimientos en vue.js, css y html. Para consultas, enviar un correo a nelsonb@amobasoftware.com
-Descripción e instalación
+
+### Descripción e instalación
 
 El candidato debe hacer un fork y a partir de ahí y ejecutar la prueba, instalar en local el proyecto de Vue.js  desde el repositorio, incluidas las librerías vuex,  vue-router y axios,  la misma podrá consumir datos desde firebase o armar su propia API desde un paquete de Laravel 
 
