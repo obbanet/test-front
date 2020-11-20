@@ -5,14 +5,15 @@ La siguiente prueba busca evaluar los conocimientos en vue.js, css y html. Para 
 
 ### Descripción e instalación
 
-El candidato debe hacer un fork y a partir de ahí y ejecutar la prueba, instalar en local el proyecto de Vue.js  desde el repositorio, incluidas las librerías vuex,  vue-router y axios,  la misma podrá consumir datos desde firebase o armar su propia API desde un paquete de Laravel 
+El candidato debe hacer un clone y a partir de ahí y ejecutar la prueba, instalar en local el proyecto de Vue.js  desde el repositorio, incluidas las librerías vuex,  vue-router y axios,  la misma podrá consumir datos desde firebase o armar su propia API desde un paquete de Laravel 
 
-Hacer el merge request hacia el repositorio, en caso de utilizar laravel para la prueba subirlo a repositorio publco…. 
+Una vez completa la tarea se debe subur a un repositorio público o enviar el paquete comprimido a  nelsonb@amobasoftware.com
+En caso de no terminar en el tiempo estipulado, se debe enviar lo que se tenga hasta ese momento para ser evaluado
 
 Se debo poder instalar de forma muy sencilla sin generar errores a través de un npm-intall y poder ejecutar en local.
 
 ### Desarrollo
-* El objetivo del test es desarrollar las vistas necesarias en el proyecto.
+* El objetivo del test es desarrollar las vistas necesarias en el proyecto. (crud)
 
 * La primera consiste en una lista paginada de usuarios con un buscador. Se debe visualizar la imagen del usuario con su respectivo nombre, y la descripción al lado.
 
