@@ -11,7 +11,7 @@ Hacer el merge request hacia el repositorio, en caso de utilizar laravel para la
 
 Se debo poder instalar de forma muy sencilla sin generar errores a través de un npm-intall y poder ejecutar en local.
 
-## Desarrollo
+### Desarrollo
 * El objetivo del test es desarrollar las vistas necesarias en el proyecto.
 
 * La primera consiste en una lista paginada de usuarios con un buscador. Se debe visualizar la imagen del usuario con su respectivo nombre, y la descripción al lado.
