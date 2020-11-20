@@ -1,7 +1,7 @@
 # test-front
 
 ## Introducción
-La siguiente prueba busca evaluar los conocimientos en vue.js, css y html. Para consultas, enviar un correo a nelsonb@amobasoftware.com
+La siguiente prueba busca evaluar los conocimientos en vue.js, css, html y API REST. Para consultas, enviar un correo a nelsonb@amobasoftware.com
 
 ### Descripción e instalación
 
